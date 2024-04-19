@@ -1,0 +1,123 @@
+img
+{
+    width: 700px;
+
+
+}
+
+body
+{
+    text-align: center;
+    background-color: darksalmon;
+
+}
+
+.contacts1 h3
+{
+
+    display: inline;
+
+}
+
+#ff
+{
+
+    background-color: coral;
+    color: darkmagenta;
+}
+
+#hf
+{
+
+    background-color: bisque;
+    color: darkolivegreen;
+
+}
+
+#menu
+{
+
+    background-color: cornflowerblue;
+    color: darkslategrey;
+}
+
+#snacks
+{
+
+    background-color: hotpink;
+    color: rgb(5, 6, 88)
+
+}
+
+#contacts
+{
+
+    background-color: aquamarine;
+    color: darkgoldenrod;
+
+}
+
+#contacts a
+{
+
+    color: goldenrod;
+
+
+}
+
+h1
+{
+
+    border-style: dashed;
+    border-width: 5px;
+    border-color: white;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    font-family: "Are You Serious", cursive;
+   font-weight: 400;
+   font-style: normal;
+
+}
+
+h2
+{
+
+    font-size: 30px;
+
+}
+
+ul
+{
+
+    position: fixed;
+    list-style: none;
+    margin-top: 0px;
+    top: 0px;
+}
+
+li
+{
+    display: inline;
+    float: left;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    background-color:burlywood ;
+    width: 310;
+}
+
+li a
+{
+
+
+    color: white;
+
+
+}
+
+li:hover
+{
+    font-size: 25px;
+}
+
